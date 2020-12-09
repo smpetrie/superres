@@ -2,7 +2,7 @@
 
 Zoomed crops for the Beach terrrain type.
 
-Each figure shows 20x zoomed crops of degraded images (I) across the SNR tradespace (top row) and the associated super-resolution pipeline output (O). Different GSD degradation factors are shown for each crop (x2, x3, and x4).
+Each figure shows 20x zoomed crops of degraded images (I) across the SNR tradespace (top row) and the associated super-resolution pipeline output (O) (bottom row). Different GSD degradation factors are shown for each crop (x2, x3, and x4).
 
 ![](images/beach_cropid1_gsd2_grd0_zoomedcrop.jpg)
 
