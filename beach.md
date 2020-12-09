@@ -1,31 +1,3 @@
-# Beach terrain-type
+# Beach zoomed crops
 
-![](images/beach_cropid1_gsd2_grd0_zoomedcrop.jpg)
-
-![](images/beach_cropid1_gsd3_grd0_zoomedcrop.jpg)
-
-![](images/beach_cropid1_gsd4_grd0_zoomedcrop.jpg)
-
-![](images/beach_cropid2_gsd2_grd0_zoomedcrop.jpg)
-
-![](images/beach_cropid2_gsd3_grd0_zoomedcrop.jpg)
-
-![](images/beach_cropid2_gsd4_grd0_zoomedcrop.jpg)
-
-![](images/beach_cropid3_gsd2_grd0_zoomedcrop.jpg)
-
-![](images/beach_cropid3_gsd3_grd0_zoomedcrop.jpg)
-
-![](images/beach_cropid3_gsd4_grd0_zoomedcrop.jpg)
-
-![](images/beach_cropid4_gsd2_grd0_zoomedcrop.jpg)
-
-![](images/beach_cropid4_gsd3_grd0_zoomedcrop.jpg)
-
-![](images/beach_cropid4_gsd4_grd0_zoomedcrop.jpg)
-
-![](images/beach_cropid5_gsd2_grd0_zoomedcrop.jpg)
-
-![](images/beach_cropid5_gsd3_grd0_zoomedcrop.jpg)
-
-![](images/beach_cropid5_gsd4_grd0_zoomedcrop.jpg)
+!(images/beach_cropid1_gsd2_grd0_zoomedcrop.jpg)
