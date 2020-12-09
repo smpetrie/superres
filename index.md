@@ -2,9 +2,17 @@
 
 Supplementary images from the paper *Super-resolving beyond satellite hardware*
 
-Terrain types:
+Zoomed crops by terrain type:
 
 [Beach](beach.md)
+
+[Forest](forest.md)
+
+[Rural](rural.md)
+
+[Rural with urban](rural_w_urban.md)
+
+[Urban](urban.md)
 
 ![Beach crop 1 GSD 2](images/beach_cropid1_gsd2_grd0_zoomedcrop.jpg?raw=true)
 
