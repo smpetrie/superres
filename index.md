@@ -1,4 +1,4 @@
-This page contains Supplementary images for the paper *Super-resolving beyond satellite hardware, opportunities in remote sensing*.
+This page contains Supplementary images for the manuscript *Super-resolving beyond satellite hardware, opportunities in remote sensing*.
 
 Links to each of the zoomed crops, by terrain type:
 
