@@ -1,1 +1,1 @@
-Supplementary images from the paper "Super-resolving beyond satellite hardware".
+# Supplementary images from the paper *Super-resolving beyond satellite hardware*
