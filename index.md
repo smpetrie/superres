@@ -8,6 +8,6 @@ Links to each of the zoomed crops, by terrain type:
 
 [Rural](rural.md)
 
-[Rural with urban](rural_w_urban.md)
+[Rural with Urban](rural_w_urban.md)
 
 [Urban](urban.md)
