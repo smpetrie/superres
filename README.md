@@ -1,2 +1,3 @@
-# superres.github.io
+# superres
+
 Super-resolving beyond satellite hardware
