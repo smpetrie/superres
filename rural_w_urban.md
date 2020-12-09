@@ -2,6 +2,8 @@
 
 Zoomed crops for the Rural with Urban terrain type.
 
+Each figure shows 20x zoomed crops of degraded images (I) across the SNR tradespace (top row) and the associated super-resolution pipeline output (O) (bottom row). Different GSD degradation factors are shown for each crop (x2, x3, and x4).
+
 ![](images/rural_w_urban_cropid1_gsd2_grd0_zoomedcrop.jpg)
 
 ![](images/rural_w_urban_cropid1_gsd3_grd0_zoomedcrop.jpg)
