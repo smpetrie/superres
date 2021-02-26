@@ -1,3 +1,6 @@
+
+# Write a text file containing the names of images used in the "superres" github.io page (smpetrie.github.io/superres/)
+
 import os
 
 image_dir = 'images/'
