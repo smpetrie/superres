@@ -1,3 +1,3 @@
 # superres
 
-Super-resolving beyond satellite hardware
+Quantifying satellite hardware trade-off via super-resolution and realistic image degradation
