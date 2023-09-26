@@ -25,7 +25,7 @@ Note that the two scaling factors we implemented across both models are x3 (GSD=
 ## Fig S1: EDSR results
 
 ![](plots/meanSSIM_EDSR_by_GSD_GRD_SNR50.png)
-***Figure S1:*** *SSIM values for different SNR50, GSD, and GRD values, for the EDSR model (trained on DIV2K data).*
+***Figure S1:*** *SSIM values for different SNR50, GSD, and GRD values, for the EDSR model (trained on DIV2K data). This figure is identical to Figure 6 from the paper.*
 
 ## Fig S2: TransENet results
 
