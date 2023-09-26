@@ -20,7 +20,7 @@ For each terrain type, the following pages show zoomed images that highlight the
 
 The below supplementary figures show SSIM values for different SNR50, GSD, and GRD values, averaged across all geographical types and crops, comparing the <a href="https://github.com/sanghyun-son/EDSR-PyTorch">EDSR model trained on DIV2K data</a> (Figure S1) and the <a href="https://github.com/Shaosifan/TransENet/">TransENet model trained on remote sensing data</a> (Figure S2).
 
-Note that the two scaling factors we implemented consistently across both models are x3 (GSD=1.8) and x4 (GSD=2.4), and in those rows the associated SSIM values are almost identical for both models. This suggests that there is little difference between each model's ability to super-resolve the satellite imagery used in our study.
+Note that the two scaling factors we implemented across both models are x3 (GSD=1.8) and x4 (GSD=2.4), and in those rows the associated SSIM values are almost identical for both models. This suggests that there is little difference between each model's ability to super-resolve the satellite imagery used in our study.
 
 ## Fig S1: EDSR results
 
