@@ -1,3 +1,3 @@
 theme: jekyll-theme-slate
 title: Quantifying satellite hardware trade-offs
-description: Variability of super-resolved image reconstructions, given different satellite hardware configurations
+description: Variability of super-resolved image reconstructions, and SSIM-based model comparison
